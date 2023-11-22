@@ -26,11 +26,3 @@ html, body {
     grid-template-columns: 50% 50%;
 }
 
-
-#left {
-    background-color: red;
-}
-
-#right {
-    background-color: blue;
-}
