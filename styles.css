@@ -36,12 +36,14 @@ html, body {
 
 
 #square {
-    height: 30px;
-    width: 30px;
-
+    height: 25px;
+    width: 25px;
     background-color: black;
+    rotate: 45deg;
+    margin-left: 10px; /* Adds space to the left of the square */
+    margin-top: 10px; /* Adds space above the square */
+    padding: 5px; /* Adds space inside the square */
 }
-
 
 #left-top-right{
    background-color: rgb(56, 19, 83);
