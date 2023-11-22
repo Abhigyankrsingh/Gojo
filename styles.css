@@ -46,8 +46,25 @@ html, body {
 }
 
 #left-top-right{
-   background-color: rgb(56, 19, 83);
+    justify-self: right;
+    padding: 40px; 
+
+    text-align: right;
    }
+
+
+#left-top-right h4{
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #333;
+}
+
+#left-top--right h5 {
+
+    font-size: 18px;
+    font-weight: 500;
+}
 
 
 #right{
