@@ -23,7 +23,7 @@ html, body {
     background-color: #ededed;
     display: grid;
 
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 25% 25% 50%;
 
    grid-template-rows:30% 50% 20% ;
 
