@@ -23,9 +23,10 @@ html, body {
     background-color: #ededed;
     display: grid;
 
-    grid-template-columns: 50% 50%;
+    grid-template-columns: 20% 20% 20% 20% 20%;
 
-    grid-template-rows: 30% 30% 30% ;
+    grid-template-rows: 20% 20% 20% 20% 20%;
+
 }
 
 
