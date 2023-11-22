@@ -53,6 +53,7 @@ html, body {
 
    #left-bottom{
     background-color: chartreuse;
+    grid-column: 1/3;
    }
 
 
