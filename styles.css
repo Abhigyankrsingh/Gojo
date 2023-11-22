@@ -28,4 +28,22 @@ html, body {
 }
 
 
+#left-top-left{
+ background-color: crimson;
+}
+
+#left-top-right{
+    background-color: blueviolet;
+   }
+
+   #left-center{
+    background-color: royalblue;
+   }
+
+   #left-bottom{
+    background-color: chartreuse;
+   }
+
+
+
 
