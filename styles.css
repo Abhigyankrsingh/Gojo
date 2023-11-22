@@ -22,3 +22,12 @@ html, body {
     width: 100%;
     background-color: #ededed;
 }
+
+
+#left {
+    background-color: red;
+}
+
+#right {
+    background-color: blue;
+}
