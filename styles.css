@@ -120,6 +120,6 @@ html, body {
     height: 100%;
     width: 100%;
     object-fit: cover;
-    border-radius: 3px;
+    border-radius: 4px;
     object-position: 50% 20%;
 }
